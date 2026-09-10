@@ -1,7 +1,7 @@
 CLI Python — Example in Linux:
 
 VERIFY:
-python3 bioshock_ibf.py verify archive.IBF or archive.lbf dir
+python3 bioshock_ibf.py verify archive.IBF or archive.lbf
 
 EXTRACT:
 python3 bioshock_ibf.py extract archive.IBF or archive.lbf dir
